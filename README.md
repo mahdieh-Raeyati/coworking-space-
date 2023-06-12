@@ -1,12 +1,13 @@
 # coworking-space-
-Coworking space front end code (Ordered by :Tehran University Science and Technology Park)
+-Coworking space front end code (Ordered by :Tehran University Science and Technology Park)
 
-Developed by:react
+-Developed by : react
 
-This is a complete front-end project for booking a Coworking space, which was developed on the order of Tehran University Science and Technology Park.
+-This is a complete front-end project for booking a Coworking space, which was developed on the order of Tehran University Science and Technology Park.
 
-pages have skeleton loading and are responsive to different screen widths.
-You can see the final result below:
+-pages have skeleton loading and are responsive to different screen widths.
+
+-You can see the final result below:
 
 ![bookHistory](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/7f15a4cc-2c11-4726-aa2c-0f9ec7916142)
 
@@ -28,7 +29,7 @@ skeleton loading:
 
 ![loading](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/15f0dac6-45f5-44d1-b7fb-8fc4c21da846)
 
-responsive:
+-responsive:
 
 
 ![bookHistoryResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/db00a6b9-c4a6-4d75-9fc3-7626b8479095)
