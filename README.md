@@ -30,15 +30,15 @@ skeleton loading:
 
 responsive:
 
-![bookHistoryResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/958eb58d-6d85-4f75-aec1-1e6f90dec802)
 
-![bookPageResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/7be2e9c1-4c5f-4ccb-8afa-6f14812fdd7e)
-37868/6d952775-ddde-4453-95e0-bc83271273a9)
+![bookHistoryResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/db00a6b9-c4a6-4d75-9fc3-7626b8479095)
 
-![editUserInfoResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/e28d2b7f-9248-4b97-8478-de35814a52a7)
+![bookPageResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/abf2028e-b398-42d4-880c-72d2138ddb33)
 
-![loginPageResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/60bc616d-07f7-471a-9471-459298f5b56d)
+![editUserInfoResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/60be8e74-2a1e-4da4-bc95-0a997cfbc5f8)
 
-![manageGroupsResponsive](https://github.com/mahdi![navBarResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/b7fc65a2-1625-44c1-972a-cbf353e02085)
-eh-Raeyati/coworking-space-/assets/1155![navBarResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/897b4477-64d7-4197-8524-9486ea91a3ac)
+![loginPageResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/6b6c3e6f-ebb0-4b06-bb1a-09f2f6f7b3b7)
 
+![manageGroupsResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/2e414a0d-8a3e-4e6b-98af-0a84f0b10642)
+
+![navBarResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/dd884f8e-858f-4c95-8f76-739dbdac4253)
