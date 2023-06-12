@@ -28,7 +28,7 @@ skeleton loading:
 
 ![loading](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/15f0dac6-45f5-44d1-b7fb-8fc4c21da846)
 
-responsive to different screen widths:
+responsive:
 
 ![bookHistoryResponsive](https://github.com/mahdieh-Raeyati/coworking-space-/assets/115537868/958eb58d-6d85-4f75-aec1-1e6f90dec802)
 
