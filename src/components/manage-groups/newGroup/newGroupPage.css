@@ -1,0 +1,16 @@
+.newGroup{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.newGroup .title {
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+}
+.groupsContainer{
+    background: #FFFFFF;
+    box-shadow: 4px 9px 25px rgba(29, 29, 29, 0.2);
+    border-radius: 35px;
+}

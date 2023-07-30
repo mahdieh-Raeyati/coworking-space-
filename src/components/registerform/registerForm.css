@@ -1,0 +1,129 @@
+@media (min-width: 1200px) {
+    .registerForm .container {
+        padding-left: 100px !important;
+        padding-right: 100px !important;
+    }
+}
+
+.registerForm .container {
+    max-width: 900px !important;
+    box-shadow: 4px 9px 25px rgba(29, 29, 29, 0.2);
+    border-radius: 12px;
+    background-color: #ffffff;
+}
+
+.registerForm .formTitle {
+    color: #08A8E4;
+    font-weight: 300;
+    font-size: 22px;
+
+}
+
+.registerForm label , .registerForm .undertaking{
+    color: #969696;
+}
+
+.registerForm input {
+    border-radius: 12px;
+    padding: 6px;
+    background-color: #ffffff;
+    opacity: 1;
+}
+.registerForm input[disabled],.registerForm .txtArea[disabled]{
+    background-color: #FFFFFF;
+    color: #646464;
+}
+.registerForm input:focus ,.registerForm .txtArea:focus{
+    outline: none !important;
+}
+
+.registerForm input + div ,.graduated > div ,select + div , .commitment + div{
+    color: #FD7272 !important;
+    font-size: 12px;
+}
+
+.registerForm input[type="radio"] {
+    vertical-align: middle;
+}
+.registerForm .txtArea{
+    resize: none;
+    border-radius: 12px;
+    padding: 10px;
+}
+.registerForm textarea[name="subject"] {
+    height: 70px;
+}
+
+.registerForm textarea[name="description"] {
+    height: 170px;
+}
+
+.registerForm textarea[name="introduction"] {
+    height: 170px;
+}
+
+.registerForm textarea + div , .technology_field_dropdown > div:nth-child(2) {
+    color: #FD7272 !important;
+    font-size: 12px;
+}
+.registerForm .undertaking span{
+    color: #08A8E4;
+    cursor: pointer;
+}
+.registerForm .registerBtn{
+    border-radius: 10px;
+    color: #ffffff;
+    background: #969696;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+    border: 0!important;
+    margin: 0 auto;
+}
+
+/*prevent changing background color*/
+.registerForm input:-webkit-autofill,
+.registerForm input:-webkit-autofill:hover,
+.registerForm input:-webkit-autofill:focus,
+.registerForm input:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0 30px #FFFFFF inset !important;
+}
+
+.registerForm .line {
+    height: 1px;
+    background: linear-gradient(90deg, rgba(150, 150, 150, 0.4) 3.02%, #969696 55.98%, rgba(150, 150, 150, 0.4) 103.02%);
+
+}
+
+.registerForm .disableDropdown{
+    color: #646464;
+}
+.registerForm .invalid{
+    border: 1.5px solid #FD7272;
+}
+.registerForm .valid{
+    border: 1.5px solid #000000;
+}
+.registerForm .default{
+    border: 1.5px solid #B0B0B0;
+}
+.registerForm .completing{
+
+    border: 1.5px solid #08A8E4!important;
+}
+.registerForm .validBtn{
+    background-color: #08A8E4;
+}
+@media (min-width: 868px) {
+    .registerForm .formTitle{
+        font-weight: 500;
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 992px) {
+    .registerForm .formTitle{
+        font-weight: 700;
+        font-size: 26px;
+    }
+}

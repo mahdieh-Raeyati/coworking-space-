@@ -1,0 +1,40 @@
+.calendarPage{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+}
+.calendarPage-container{
+    background-color: #FFFFFF;
+    box-shadow: none;
+    border-radius: 0;
+}
+.calendarPage-title{
+    font-weight: 300;
+    font-size: 22px;
+}
+.calendarPage .nextButton{
+    color: #08A8E4;
+}
+
+.nextButton a,.nextButton a:hover, .nextButton a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+@media (min-width: 576px) {
+    .calendarPage-container{
+        box-shadow: 2px 4px 20px rgba(29, 29, 29, 0.18);
+        border-radius: 20px;
+    }
+    .calendarPage-title{
+        font-weight: 500;
+        font-size: 24px;
+    }
+}
+@media (min-width: 992px) {
+    .calendarPage-title{
+        font-weight: 700;
+        font-size: 26px;
+    }
+}

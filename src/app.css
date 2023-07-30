@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "IRANSans";
+    src: url("../fonts/IRANSans.ttf") format("truetype");
+}
+
+body {
+    font-family: "IRANSans" !important;
+    background-image: url("./img/background/Group Making Empty.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

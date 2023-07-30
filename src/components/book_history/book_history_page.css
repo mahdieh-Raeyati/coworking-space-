@@ -1,0 +1,50 @@
+.book_history_page{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.book_history_container{
+    background: #FFFFFF;
+    box-shadow: none;
+    border-radius: 0;
+    display: flex;
+    justify-content: center;
+    overflow-x:auto;
+}
+.table-container{
+    display: flex;
+    justify-content: center
+}
+.title{
+    font-weight: 300;
+    font-size: 22px;
+}
+.description{
+    color: #636363;
+    font-weight: 300;
+    font-size: 16px;
+}
+@media (min-width: 576px) {
+    .book_history_container{
+        box-shadow: 2px 4px 20px rgba(29, 29, 29, 0.2);
+        border-radius: 25px;
+    }
+    .title{
+        font-weight: 500;
+        font-size: 25px;
+    }
+    .description{
+        font-weight: 500;
+        font-size: 18px;
+    }
+}
+@media (min-width: 992px) {
+    .title{
+        font-weight: 700;
+        font-size: 30px;
+    }
+    .description{
+        font-weight: 700;
+        font-size: 22px;
+    }
+}

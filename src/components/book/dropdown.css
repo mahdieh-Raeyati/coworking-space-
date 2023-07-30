@@ -1,0 +1,78 @@
+.book-dropdown textarea:hover  {
+    color: #08A8E4;
+    cursor: context-menu;
+    background-color: inherit !important;
+}
+
+.book-dropdown .dropdownMenu > div {
+    overflow-y: scroll;
+    height: auto;
+    margin: 0 auto;
+}
+
+.book-dropdown .dropdownMenu {
+    box-shadow: -3px 0px 11px rgba(0, 0, 0, 0.11), 3px 5px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    width: inherit;
+    padding: 10px;
+    top: 42px;
+    right: 0px;
+    background-color: #fff;
+    z-index: 10;
+}
+
+.book-dropdown ::-webkit-scrollbar {
+    width: 17px;
+    height: 44px;
+
+}
+
+.book-dropdown ::-webkit-scrollbar-thumb {
+    background: #CACACA;
+    border-radius: 8px;
+
+}
+.book-dropdown label {
+    color: #969696;
+}
+.book-dropdown .dropdownTitle {
+    border-radius: 12px;
+    padding: 6px 6px 6px 16px;
+    color: #969696;
+
+}
+.book-dropdown .dropdownTitle > img {
+    left: 10px;
+    top: 40%;
+    width: 15px;
+}
+
+.book-dropdown .dropdownTitle:focus .dropdownTitle img {
+    transform: rotate(180deg);
+}
+
+.book-dropdown .rotation {
+    transform: rotate(180deg);
+}
+
+.book-dropdown .dropdownItem {
+    border: none;
+    width: 100%;
+    color: #969696;
+    height: 35px;
+    resize: none;
+    overflow: hidden;
+
+}
+.book-dropdown .x textarea:focus{
+    outline: none!important;
+}
+
+.book-dropdown .default{
+    border: 1.5px solid #B0B0B0;
+}
+.book-dropdown .completing{
+
+    border: 1.5px solid #08A8E4!important;
+}
+
